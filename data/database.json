@@ -1,0 +1,93 @@
+{
+  "users":[
+ {
+   "id": 1,
+   "first_name": "Idalina",
+   "last_name": "Codeman",
+   "email": "icodeman0@zimbio.com",
+   "password": "23RQNsuk",
+   "gender": "Female",
+   "ip_address": "65.217.42.204"
+ },
+ {
+   "id": 2,
+   "first_name": "Inesita",
+   "last_name": "Milbourne",
+   "email": "imilbourne1@tamu.edu",
+   "password": "MvZEYOQJBeOU",
+   "gender": "Female",
+   "ip_address": "116.77.159.25"
+ },
+ {
+   "id": 3,
+   "first_name": "Norene",
+   "last_name": "Joscelyne",
+   "email": "njoscelyne2@dailymail.co.uk",
+   "password": "hXA5FJdFragz",
+   "gender": "Female",
+   "ip_address": "48.136.102.80"
+ },
+ {
+   "id": 4,
+   "first_name": "Earle",
+   "last_name": "Gronous",
+   "email": "egronous3@moonfruit.com",
+   "password": "TMyi291H1dfP",
+   "gender": "Male",
+   "ip_address": "201.88.161.229"
+ },
+ {
+   "id": 5,
+   "first_name": "Cherida",
+   "last_name": "Paver",
+   "email": "cpaver4@imdb.com",
+   "password": "O4uZSn",
+   "gender": "Female",
+   "ip_address": "137.46.145.41"
+ },
+ {
+   "id": 6,
+   "first_name": "Leonanie",
+   "last_name": "Mathou",
+   "email": "lmathou5@sitemeter.com",
+   "password": "Z15Uqz",
+   "gender": "Female",
+   "ip_address": "72.138.250.72"
+ },
+ {
+   "id": 7,
+   "first_name": "Den",
+   "last_name": "Bradnam",
+   "email": "dbradnam6@thetimes.co.uk",
+   "password": "f6HmAPNlAJ",
+   "gender": "Male",
+   "ip_address": "135.7.238.4"
+ },
+ {
+   "id": 8,
+   "first_name": "Izaak",
+   "last_name": "MacAulay",
+   "email": "imacaulay7@youku.com",
+   "password": "gBXa9ppt6ku",
+   "gender": "Male",
+   "ip_address": "233.138.117.142"
+ },
+ {
+   "id": 9,
+   "first_name": "Johna",
+   "last_name": "Sinkins",
+   "email": "jsinkins8@bbc.co.uk",
+   "password": "mx6SfU",
+   "gender": "Female",
+   "ip_address": "43.54.94.125"
+ },
+ {
+   "id": 10,
+   "first_name": "Alfi",
+   "last_name": "Aspinwall",
+   "email": "aaspinwall9@freewebs.com",
+   "password": "TQgLvN2Ba",
+   "gender": "Female",
+   "ip_address": "85.89.189.121"
+ }
+]}
