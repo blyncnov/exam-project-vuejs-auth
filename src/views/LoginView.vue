@@ -31,6 +31,11 @@
                                 <button>Sign In</button>
                             </div>
                         </form>
+                        <li id="links">
+                            <RouterLink to="/auth/sign-up">
+                                Dont have an account ? Sign up
+                            </RouterLink>
+                        </li>
                     </div>
                 </section>
             </div>
@@ -43,7 +48,7 @@ import { ref, onMounted } from 'vue';
 import { storeToRefs } from 'pinia'
 import MessageAlert from "@/components/alert/MessageAlert.vue"
 import { useUserStore } from "@/stores/user"
-import { useRouter } from 'vue-router';
+import { useRouter, RouterLink } from 'vue-router';
 
 const router = useRouter();
 const userStore = useUserStore()
@@ -120,5 +125,10 @@ const OnSubmitHandler = async (e: any) => {
 <style lang="scss" scoped>
 .login_container_sectinon {
     width: auto;
+}
+
+
+#links {
+    cursor: pointer;
 }
 </style>

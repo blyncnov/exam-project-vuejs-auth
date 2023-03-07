@@ -39,6 +39,11 @@
                                 <button>Create Account</button>
                             </div>
                         </form>
+                        <li id="links">
+                            <RouterLink to="/auth/sign-in">
+                                Already have an account ? Sign in
+                            </RouterLink>
+                        </li>
                     </div>
                 </section>
             </div>
