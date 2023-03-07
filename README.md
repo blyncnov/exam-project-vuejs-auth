@@ -9,10 +9,6 @@ This Application is my Altschoolafrica submission for 3rd semester
 
 ### DEMO
 
-- Home - Product page
-
-![Uploading home.png…]()
-
 - Create Account
 
     <img width="1140" alt="create-account" src="https://user-images.githubusercontent.com/66668114/223439307-b2a13242-c44e-488d-a6cc-52d46a4d531f.png">
