@@ -14,14 +14,29 @@ Scheme: "https"
     - You can use any of the following details to sign in
 
 ````json
-  {
-          "id": "1",
-          "todoid": "1",
-          "username": "todoapi Holmes",
-          "email": "todoapi@gmail.com",
-          "password": "$2b$10$KwC0kokzCtQrJqMsASIbq.8iUnXJwgEbGujHyDoEtji/TEqPqzvyO"
+      {
+        id: 1,
+        first_name: 'Blyncnov',
+        last_name: 'Jerry',
+        email: 'blyncnov@altschool.com',
+        password: 'taiwo@altschool'
       },
+      {
+        id: 2,
+        first_name: 'admin',
+        last_name: 'admin',
+        email: 'admin@altschool.com',
+        password: 'admin'
+      },
+      {
+        id: 3,
+        first_name: 'user',
+        last_name: 'user',
+        email: 'user@altschool.com',
+        password: 'user'
+      }
   ```
+
 
 ## Built With
 
