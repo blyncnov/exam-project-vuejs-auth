@@ -18,7 +18,7 @@ Scheme: "https"
       id: 1,
       first_name: 'Boluwatife',
       last_name: 'Taiwo',
-      email: 'bholuwatife05@gmail.com',
+      email: 'blyncnove@gmail.com',
       password: 'taiwo@altschool'
     },
     {
