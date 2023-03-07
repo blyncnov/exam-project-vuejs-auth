@@ -21,6 +21,7 @@ Scheme: "https"
   "email": "blyncnov@altschool.com",
   "password": "taiwo@altschool"
   },
+
   {
   "id": 2,
   "first_name": "admin",
@@ -28,6 +29,7 @@ Scheme: "https"
   "email": "admin@altschool.com",
   "password": "admin"
   },
+
   {
   "id": 3,
   "first_name": "user",
@@ -40,10 +42,10 @@ Scheme: "https"
 
 ## Built With
 
-- Node js
-- Node-Mailer
-- Cors
-- Environment Variable
+- Vue js - Composition API
+- Vue Router
+- json server
+- Pinia - State Management
 
 ## Developer Information
 
