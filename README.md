@@ -50,5 +50,3 @@ Scheme: "https"
 - Website [`Blyncnov`](https://pro-blyncnov.vercel.app).
 - Twitter [`@jeremytechie`](https://twitter.com/jeremytechie).
 - Linkedin [`Taiwo Boluwatife`](https://linkedin.com/in/blyncnov).
-
-````
