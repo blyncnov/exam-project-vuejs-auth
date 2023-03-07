@@ -1,5 +1,8 @@
 <script setup lang="ts">
 import ProductCard from '@/components/card/ProductCard.vue';
+import { useRouter } from 'vue-router';
+
+const router = useRouter();
 
 const LogOut = () => {
   // Clear Token in Local Storage
@@ -7,7 +10,7 @@ const LogOut = () => {
 
   setTimeout(() => {
     // Redirect to Sign in Page After 1 sec
-    window.location.href = "/auth/sign-in"
+    router.push("/auth/sign-in")
   }, 1000)
 }
 
