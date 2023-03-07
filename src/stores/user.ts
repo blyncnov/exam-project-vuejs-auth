@@ -5,6 +5,7 @@ export const useUserStore = defineStore('counter', {
   state: () => ({
     modalState: false,
     hasError: false,
+    isAvailable: true,
     alert_message: 'Check login details again !',
     user: ref([
       {
