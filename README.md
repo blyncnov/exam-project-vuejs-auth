@@ -1,70 +1,51 @@
-# .
+## Mocked Authentication Project
 
-keep ==> https://alan.app/docs/tutorials/web/integrating-vue-app/
+This Application is my Altschoolafrica submission for 3rd semester
 
-This template should help get you started developing with Vue 3 in Vite.
+    - Login & Registration
+    - user check (if user is logged in)
 
-## Recommended IDE Setup
+### Base url: https://mocked-vuejs-auth.vercel.app
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+Scheme: "https"
 
-## Type Support for `.vue` Imports in TS
+### Mocked User details for quick authentication
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin) to make the TypeScript language service aware of `.vue` types.
+    - You can use any of the following details to sign in
 
-If the standalone TypeScript plugin doesn't feel fast enough to you, Volar has also implemented a [Take Over Mode](https://github.com/johnsoncodehk/volar/discussions/471#discussioncomment-1361669) that is more performant. You can enable it by the following steps:
-
-1. Disable the built-in TypeScript Extension
-    1) Run `Extensions: Show Built-in Extensions` from VSCode's command palette
-    2) Find `TypeScript and JavaScript Language Features`, right click and select `Disable (Workspace)`
-2. Reload the VSCode window by running `Developer: Reload Window` from the command palette.
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
+```json
+  {
+      id: 1,
+      first_name: 'Boluwatife',
+      last_name: 'Taiwo',
+      email: 'bholuwatife05@gmail.com',
+      password: 'taiwo@altschool'
+    },
+    {
+      id: 2,
+      first_name: 'admin',
+      last_name: 'admin',
+      email: 'admin@gmail.com',
+      password: 'admin'
+    },
+    {
+      id: 3,
+      first_name: 'user',
+      last_name: 'user',
+      email: 'user@user.com',
+      password: 'user'
+    }
 ```
 
-### Compile and Hot-Reload for Development
+## Built With
 
-```sh
-npm run dev
-```
+- Vue js - Composition API
+- Pinia
+- Vue Router
+- Json Server
 
-### Type-Check, Compile and Minify for Production
+## Developer Information
 
-```sh
-npm run build
-```
-
-### Run Unit Tests with [Vitest](https://vitest.dev/)
-
-```sh
-npm run test:unit
-```
-
-### Run End-to-End Tests with [Cypress](https://www.cypress.io/)
-
-```sh
-npm run test:e2e:dev
-```
-
-This runs the end-to-end tests against the Vite development server.
-It is much faster than the production build.
-
-But it's still recommended to test the production build with `test:e2e` before deploying (e.g. in CI environments):
-
-```sh
-npm run build
-npm run test:e2e
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+- Website [`Blyncnov`](https://pro-blyncnov.vercel.app).
+- Twitter [`@jeremytechie`](https://twitter.com/jeremytechie).
+- Linkedin [`Taiwo Boluwatife`](https://linkedin.com/in/blyncnov).

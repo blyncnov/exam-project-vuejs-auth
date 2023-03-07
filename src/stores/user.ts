@@ -15,11 +15,18 @@ export const useUserStore = defineStore('counter', {
         password: 'taiwo@altschool'
       },
       {
-        id: 1,
+        id: 2,
         first_name: 'admin',
         last_name: 'admin',
         email: 'admin@gmail.com',
         password: 'admin'
+      },
+      {
+        id: 3,
+        first_name: 'user',
+        last_name: 'user',
+        email: 'user@user.com',
+        password: 'user'
       }
     ])
   }),
