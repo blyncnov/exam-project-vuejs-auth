@@ -11,39 +11,39 @@ Scheme: "https"
 
 ### Mocked User details for quick authentication
 
-    - You can use any of the following details to sign in
+- You can use any of the following details to sign in
 
-````json
-      {
-        id: 1,
-        first_name: 'Blyncnov',
-        last_name: 'Jerry',
-        email: 'blyncnov@altschool.com',
-        password: 'taiwo@altschool'
-      },
-      {
-        id: 2,
-        first_name: 'admin',
-        last_name: 'admin',
-        email: 'admin@altschool.com',
-        password: 'admin'
-      },
-      {
-        id: 3,
-        first_name: 'user',
-        last_name: 'user',
-        email: 'user@altschool.com',
-        password: 'user'
-      }
-  ```
+```
+  {
+  "id": 1,
+  "first_name": "Blyncnov",
+  "last_name": "Jerry",
+  "email": "blyncnov@altschool.com",
+  "password": "taiwo@altschool"
+  },
+  {
+  "id": 2,
+  "first_name": "admin",
+  "last_name": "admin",
+  "email": "admin@altschool.com",
+  "password": "admin"
+  },
+  {
+  "id": 3,
+  "first_name": "user",
+  "last_name": "user",
+  "email": "user@altschool.com",
+  "password": "user"
+  }
 
+```
 
 ## Built With
 
-- Vue js - Composition API
-- Pinia
-- Vue Router
-- Json Server
+- Node js
+- Node-Mailer
+- Cors
+- Environment Variable
 
 ## Developer Information
 
