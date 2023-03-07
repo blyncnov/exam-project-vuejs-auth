@@ -14,27 +14,27 @@ Scheme: "https"
     - You can use any of the following details to sign in
 
 ```json
-  {
-      id: 1,
-      first_name: 'Boluwatife',
-      last_name: 'Taiwo',
-      email: 'blyncnove@gmail.com',
-      password: 'taiwo@altschool'
-    },
-    {
-      id: 2,
-      first_name: 'admin',
-      last_name: 'admin',
-      email: 'admin@gmail.com',
-      password: 'admin'
-    },
-    {
-      id: 3,
-      first_name: 'user',
-      last_name: 'user',
-      email: 'user@user.com',
-      password: 'user'
-    }
+      {
+        id: 1,
+        first_name: 'Blyncnov',
+        last_name: 'Jerry',
+        email: 'blyncnov@altschool.com',
+        password: 'taiwo@altschool'
+      },
+      {
+        id: 2,
+        first_name: 'admin',
+        last_name: 'admin',
+        email: 'admin@altschool.com',
+        password: 'admin'
+      },
+      {
+        id: 3,
+        first_name: 'user',
+        last_name: 'user',
+        email: 'user@altschool.com',
+        password: 'user'
+      }
 ```
 
 ## Built With
